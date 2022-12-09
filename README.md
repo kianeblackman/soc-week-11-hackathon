@@ -18,7 +18,7 @@ films you have favourited.
 This project is deployed at ...
 
 ```bash
-  https:// ...
+  https://soc-week-11-hackathon.onrender.com
 ```
 
 ## Run Locally
@@ -35,7 +35,7 @@ Install dependencies
   npm install
 ```
 
-set up the database
+Reset / setup the database
 
 ```bash
   npm run db-reset
