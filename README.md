@@ -35,7 +35,7 @@ Install dependencies
   npm install
 ```
 
-set up the database
+Reset / setup the database
 
 ```bash
   npm run db-reset
