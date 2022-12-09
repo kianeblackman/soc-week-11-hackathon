@@ -18,7 +18,7 @@ films you have favourited.
 This project is deployed at ...
 
 ```bash
-  https:// ...
+  https://soc-week-11-hackathon.onrender.com
 ```
 
 ## Run Locally
